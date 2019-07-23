@@ -1,0 +1,9 @@
+{
+  "appId": "com.divyansh.pairbnb",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.0.106:8100"
+  }
+}
